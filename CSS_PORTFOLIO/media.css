@@ -1,0 +1,122 @@
+@media screen and (max-width: 1260px) 
+{
+    .Coucou {
+        display: none;
+    }
+    video {
+        display: none;
+    }
+    img {
+        height: 100px;
+    }
+
+    .top-page{
+        height: 54vh;
+    }
+
+    .top-page-left {
+        padding-top: 120px;
+    }
+    .top-page-middle-left-bottom{
+        padding-bottom: 20px;
+    }
+    .top-page-middle-left {
+        display: none;
+    }
+
+    .Projet {
+        margin-left:10px ;
+        margin-top: 20px;
+        width: 230px; 
+        height: 300px;
+    }
+    .Projet2 {
+        margin-left:10px ;
+        margin-top: 20px;
+        width: 230px; 
+        height: 300px;
+        padding-left: 20px;
+        padding-right: 40px;
+    }
+
+    .main {
+        margin: auto;
+    }
+
+    main h5 {
+        display: flex;
+
+    }
+    
+
+    .middle{
+        padding: 0;
+        
+    }
+    .middle-right {
+        padding: 0;
+        margin: auto;
+    }
+    .middle-left {
+        margin: auto;
+        padding: 0;
+    }
+
+    .skills {
+        margin-top: 50px;
+    }
+
+    .name span:last-child{
+        padding-left: 5px;
+    }
+    
+    .name span:nth-child(6){
+        padding: 5px 5px;
+    }
+    
+
+    .bar-container {
+        width: 200px;
+    }
+    .bar {
+        width: 200px;
+    }
+    .name {
+        width: 100px;
+      
+    }
+    .name span {
+        font-size: 15px;
+    }
+    .bottom-top span{ 
+        font-size:10px ;}
+}
+
+.bottom-top h1 {
+    text-align: center;
+}
+
+.bottom-top div{ 
+    height: 50px;
+    width: 50px;
+
+}
+
+.bottom-right{
+    padding-right: 50px;
+}
+.container-bottom {
+    height: fit-content;
+}
+
+.Mail {
+    padding: 10px;
+    font-size: 14px;
+}
+
+
+@media screen and (min-width: 1260px) {
+    .hidden{
+        display: none;
+    }
+}
